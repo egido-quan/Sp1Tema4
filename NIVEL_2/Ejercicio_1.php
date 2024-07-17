@@ -26,7 +26,7 @@
     }
 
 
-    PokerDice::getTotalThrows(); //Mostramos el número total de dados tiradas
+    echo PokerDice::getTotalThrows(); //Mostramos el número total de dados tiradas
 
 
 
